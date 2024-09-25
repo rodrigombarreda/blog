@@ -15,7 +15,7 @@ Esta es una aplicación web para la gestión de blogs, donde los usuarios pueden
 Pasos para clonar el proyecto e instalar dependencias.
 
 1. Clona el repositorio:
-   git clone https://github.com/usuario/proyecto.git
+   git clone https://github.com/rodrigombarreda/blog.git
    ```
 
 2. **Backend** (.NET):
